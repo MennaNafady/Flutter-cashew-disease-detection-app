@@ -1,16 +1,21 @@
-# cajoo
+🌿 Cashew Disease Detection App
+A mobile application built with Flutter that empowers cashew farmers and agricultural stakeholders to quickly identify and treat issues affecting cashew crops. Using AI-powered image classification, the app detects whether a cashew tree is affected by a disease, insect, or abiotic stress, and provides diagnosis details along with tailored treatment suggestions.
 
-A new Flutter project.
+📱 Features
+📷 Upload from Gallery
+Easily upload a photo of a cashew leaf or tree directly from your device's gallery.
 
-## Getting Started
+🧠 Smart Diagnosis
+The app analyzes the uploaded image using a trained AI model to predict whether the issue is:
 
-This project is a starting point for a Flutter application.
+🌿 Disease
 
-A few resources to get you started if this is your first Flutter project:
+🐛 Insect infestation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+☀️ Abiotic stress (e.g., sunburn, drought, nutrient deficiency)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💊 Treatment Recommendations
+For every diagnosis, the app suggests actionable treatments or preventive measures.
+
+🌍 Farmer-Friendly UI
+Clean and intuitive interface tailored for use by farmers, agronomists, and agriculture students.
