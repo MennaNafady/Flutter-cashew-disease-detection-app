@@ -19,3 +19,4 @@ For every diagnosis, the app suggests actionable treatments or preventive measur
 
 🌍 Farmer-Friendly UI
 Clean and intuitive interface tailored for use by farmers, agronomists, and agriculture students.
+<img width="366" height="614" alt="image" src="https://github.com/user-attachments/assets/c02b42bf-339a-4cc2-97d8-51fa7ecbc32d" />
